@@ -23,5 +23,6 @@
   "location": {
     "front": -16,
     "left": 16
-  }
+  },
+  "absoluteEncoderInverted": false
 }
